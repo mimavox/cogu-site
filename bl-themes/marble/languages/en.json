@@ -1,0 +1,16 @@
+{
+  "theme-data":
+  {
+      "name": "Marble",
+      "description": "Ported from freehtml5.co's marble theme. Marble is a clean and minimal design. Marble is ideal for portfolio or any other type of website you use it with."
+  },
+  "add-a-static-page-with-slug-name-contact": "Add a static page with slug name contact",
+  "add-a-static-page-with-slug-name-service-and": "Add a static page with slug name service and",
+  "create-a-child-page-introducing-the-service-with-cover-image": "create a child page introducing the service with cover image",
+  "create-a-child-page-on-the-service-page-that-introduces-the-service": "Create a child page on the service page that introduces the service",
+  "learn-more": "Learn More",
+  "not-post-found": "Not post found",
+  "our-services": "Our Services",
+  "plase-add-a-description": "Plase add a description",
+  "recent-blog": "Recent Blog"
+}

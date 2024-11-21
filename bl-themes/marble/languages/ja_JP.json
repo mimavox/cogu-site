@@ -1,0 +1,16 @@
+{
+  "theme-data":
+  {
+      "name": "Marble",
+      "description": "freehtml5.coのMarbleテーマからの移植です。Marbleは、クリーンでミニマルなデザインです。ポートフォリオをはじめ、さままざまなタイプのウェブサイトに適しています。"
+  },
+  "add-a-static-page-with-slug-name-contact": "スラッグ名「contact」で静的ページを追加してください",
+  "add-a-static-page-with-slug-name-service-and": "スラッグ名「service」で静的ページを追加してください。そして",
+  "create-a-child-page-introducing-the-service-with-cover-image": "カバー画像を追加したservice紹介の子ページを作成してください",
+  "create-a-child-page-on-the-service-page-that-introduces-the-service": "serviceページにサービスを紹介する子ページを作成してください",
+  "learn-more": "さらに見る",
+  "not-post-found": "投稿がありません",
+  "our-services": "サービス紹介",
+  "plase-enter-a-description": "説明を追加してください",
+  "recent-blog": "新着記事"
+}

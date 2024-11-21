@@ -1,0 +1,10 @@
+{
+  "author": "nogajun",
+  "email": "nogajun+bludit@gmail.com",
+  "website": "https://www.nofuture.tv/",
+  "version": "2.0",
+  "releaseDate": "2022-03-15",
+  "license": "Creative Commons Attribution 3.0",
+  "compatible": "3.13.1",
+  "notes": "Ported from freehtml5.co's marble theme. https://freehtml5.co/marble-free-html5-bootstrap-template-for-portfolio-or-multi-purpose-websites/"
+}

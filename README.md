@@ -1,4 +1,6 @@
-# [Bludit](https://www.bludit.com/)
+THIS SITE IS BUILT ON TOP OF THE FLAT FILE CMS BLUDIT:
+
+## [Bludit](https://www.bludit.com/)
 
 Bludit the Simple, Fast, and Flexible CMS.
 

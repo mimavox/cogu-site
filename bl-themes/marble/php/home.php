@@ -29,6 +29,10 @@
     <?php } ?>
 
 	<div class="row row-bottom-padded-md">
+    <!-- TODO: Instagram feed -->
+  </div>
+
+  <div class="row row-bottom-padded-md">
 	<?php foreach($content as $page):?>
 		<div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">
 			<div class="blog-entry">

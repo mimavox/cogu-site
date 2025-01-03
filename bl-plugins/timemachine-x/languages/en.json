@@ -1,0 +1,8 @@
+{
+	"plugin-data": {
+		"name": "TimeMachine X",
+		"description": "TimeMachine X allows you to go back to your site at some point in the past where you made some changes. This is useful if you deleted some content or made some changes to the settings and want to go back."
+	},
+	"there-are-no-recovery-points": "There are no recovery points.",
+	"go-back-to-this-point": "Go back to this point"
+}

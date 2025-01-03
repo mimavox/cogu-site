@@ -1,2 +1,6 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{"label":"About","text":"This is our collegium. Thje description will follow here. We are amazing.","position":1}
+{
+    "position": 1,
+    "label": "About",
+    "text": "This is a brief description of yourself or your site, to change this text go to the admin panel, settings, plugins, and configure the plugin \"about\"."
+}

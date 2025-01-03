@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "TimeMachine X",
+		"description": "Timemachine X erlaubt die Wiederherstellung der Website zu früheren Zeitpunkten. Dies ist nützlich, wenn Inhalte gelöscht oder bearbeitet oder die Einstellungen geändert wurden und dies rückgängig gemacht werden soll."
+	},
+	"there-are-no-recovery-points": "Es gibt keine Version für eine Wiederherstellung.",
+	"go-back-to-this-point": "Diese Version wiederherstellen"
+}

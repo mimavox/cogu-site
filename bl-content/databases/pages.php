@@ -1,2 +1,113 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-{"front":{"title":"Front","description":"","username":"admin","tags":[],"type":"static","date":"2024-07-17 17:25:39","dateModified":"2024-07-17 19:00:03","position":8,"coverImage":"","category":"","md5file":"bf0ba94e6810e1aad0724e6642a9a58b","uuid":"97da690828f88253ad48e51b8ff6c99a","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]},"contact":{"title":"Contact","description":"","username":"admin","tags":[],"type":"static","date":"2024-07-16 19:21:02","dateModified":"2024-07-16 19:21:24","position":7,"coverImage":"","category":"","md5file":"d41d8cd98f00b204e9800998ecf8427e","uuid":"12bdd5a3290e84b827edfdc2466aabfd","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]},"research":{"title":"Research","description":"","username":"admin","tags":[],"type":"static","date":"2024-07-16 15:20:35","dateModified":"2024-07-17 18:56:35","position":3,"coverImage":"","category":"","md5file":"5b51fb957d6172bfe5a00b137391a317","uuid":"ad32de0090d0987554bf9bf5355fb64d","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]},"page-one":{"title":"Page one","description":"","username":"admin","tags":[],"type":"sticky","date":"2024-07-16 14:42:51","dateModified":"2024-07-17 18:47:40","position":1,"coverImage":"_0001178_chicagoatnight_1440x900.jpg","category":"general","md5file":"49097322b6637d6a9cb9c535dc0fd9ba","uuid":"dc23d26313adbce7e0720af148b7f3d8","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]},"page-two":{"title":"Page two","description":"","username":"admin","tags":[],"type":"sticky","date":"2024-07-16 14:41:51","dateModified":"2024-07-17 18:47:22","position":1,"coverImage":"04057_afterwork_1440x900.jpg","category":"general","md5file":"b748ee6bd03fdee974e37f1c51b97f2d","uuid":"61130fca09c5a9576633f477d92db677","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]},"page-three":{"title":"Page three","description":"","username":"admin","tags":[],"type":"sticky","date":"2024-07-16 14:40:51","dateModified":"2024-07-17 18:49:40","position":1,"coverImage":"new-york-5120x2880-usa-travel-tourism-5111.jpg","category":"general","md5file":"6fbfa1edf14c3607c57b12b9cf7f94a3","uuid":"a5fc928f6b8aad1172182e7afe91f418","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]},"about":{"title":"About","description":"","username":"admin","tags":[],"type":"static","date":"2024-07-16 14:39:51","dateModified":"2024-07-16 18:29:09","position":1,"coverImage":"diamond_pattern-wallpaper-2560x1600.jpg","category":"general","md5file":"876b63d4457d83b2a28714614c79b29a","uuid":"1b8c50598456542751c8401b3458e158","allowComments":true,"template":"","noindex":false,"nofollow":false,"noarchive":false,"custom":[false]}}
+{
+    "research": {
+        "title": "Research",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "static",
+        "date": "2025-01-03 14:19:36",
+        "dateModified": "2025-01-03 14:27:46",
+        "position": 1,
+        "coverImage": "",
+        "category": "",
+        "md5file": "4cb40f3e191cb7a176f64c701e246df6",
+        "uuid": "439ad465ce11c36ceac43cc35a977a62",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "about": {
+        "title": "About",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "static",
+        "date": "2025-01-03 14:27:55",
+        "dateModified": "",
+        "position": 2,
+        "coverImage": "",
+        "category": "",
+        "md5file": "2fd53775438de6cb73a84b3da2e501d7",
+        "uuid": "4e78db0f7964174b7917a9cd0f45c7ec",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "contact": {
+        "title": "Contact",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "static",
+        "date": "2025-01-03 14:26:47",
+        "dateModified": "",
+        "position": 3,
+        "coverImage": "",
+        "category": "",
+        "md5file": "55d2351be28d1325de703783770bd7c3",
+        "uuid": "3b60c9627000bfaf443e9a6dd12a8961",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "front": {
+        "title": "Collegium for Cognitive Science",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "static",
+        "date": "2025-01-03 14:30:05",
+        "dateModified": "2025-01-03 14:32:40",
+        "position": 10,
+        "coverImage": "",
+        "category": "",
+        "md5file": "e77ac138bb2e7ce939f583b781039861",
+        "uuid": "580c9b02119db515714b1c945090f53d",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "dice-research-group": {
+        "title": "DICE research group",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "sticky",
+        "date": "2025-01-03 14:46:25",
+        "dateModified": "",
+        "position": 11,
+        "coverImage": "",
+        "category": "",
+        "md5file": "40ea8a8a377239f4e4a9107ecb44baf5",
+        "uuid": "342152ca173aa1e7ccae04da3eea1bdb",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    }
+}

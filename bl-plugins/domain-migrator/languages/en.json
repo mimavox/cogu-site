@@ -1,0 +1,9 @@
+{
+	"plugin-data":
+	{
+		"name": "Domain migrator",
+		"description": "Move your Bludit installation to a new server with different domain. You can migrate from domain to another, from a domain to a subdomain or from http to https."
+	},
+	"information": "Information",
+	"next-steps": "Next steps"
+}

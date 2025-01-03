@@ -7,7 +7,7 @@
 	<?php endif; ?>
 		<div class="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 		<?php Theme::plugins('pageBegin'); ?>
-			<h2 class="fh5co-heading"><?php echo $page->title(); ?></h2>
+			<h1 class="fh5co-heading"><?php echo $page->title(); ?></h1>
 			<?php echo $page->content(); ?>
 		<?php Theme::plugins('pageEnd'); ?>
 		</div>

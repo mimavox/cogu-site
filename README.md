@@ -1,6 +1,6 @@
-THIS SITE IS BUILT ON TOP OF THE FLAT FILE CMS BLUDIT (AND USES A CUSTOMIZED MARBLE THEME):
+-- THIS SITE IS BUILT ON TOP OF THE FLAT FILE CMS BLUDIT AND USES A CUSTOMIZED MARBLE THEME --
 
-## [Bludit](https://www.bludit.com/)
+# [Bludit](https://www.bludit.com/)
 
 Bludit the Simple, Fast, and Flexible CMS.
 

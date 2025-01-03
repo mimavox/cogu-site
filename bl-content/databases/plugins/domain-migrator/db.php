@@ -1,6 +1,7 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 {
-    "label": "Static Pages",
-    "homeLink": true,
+    "status": "-1",
+    "oldDomain": "",
+    "newDomain": "",
     "position": 1
 }

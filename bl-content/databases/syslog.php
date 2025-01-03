@@ -1,2 +1,83 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
-[{"date":"2024-07-17 19:00:03","dictionaryKey":"content-edited","notes":"Front","idExecution":"6697f893bce81","method":"POST","username":"admin"},{"date":"2024-07-17 18:59:35","dictionaryKey":"content-edited","notes":"Front","idExecution":"6697f8774a380","method":"POST","username":"admin"},{"date":"2024-07-17 18:59:16","dictionaryKey":"content-edited","notes":"Front","idExecution":"6697f864935ff","method":"POST","username":"admin"},{"date":"2024-07-17 18:59:01","dictionaryKey":"content-edited","notes":"Front","idExecution":"6697f8554e94c","method":"POST","username":"admin"},{"date":"2024-07-17 18:56:35","dictionaryKey":"content-edited","notes":"Research","idExecution":"6697f7c3e5f7e","method":"POST","username":"admin"},{"date":"2024-07-17 18:54:22","dictionaryKey":"content-edited","notes":"Research","idExecution":"6697f73e53f86","method":"POST","username":"admin"},{"date":"2024-07-17 18:49:40","dictionaryKey":"content-edited","notes":"Page three","idExecution":"6697f624102b1","method":"POST","username":"admin"},{"date":"2024-07-17 18:49:04","dictionaryKey":"content-edited","notes":"Page three","idExecution":"6697f600cfe37","method":"POST","username":"admin"},{"date":"2024-07-17 18:47:40","dictionaryKey":"content-edited","notes":"Page one","idExecution":"6697f5ac69a9b","method":"POST","username":"admin"},{"date":"2024-07-17 18:47:22","dictionaryKey":"content-edited","notes":"Page two","idExecution":"6697f59a1ab1d","method":"POST","username":"admin"}]
+[
+    {
+        "date": "2025-01-03 14:50:06",
+        "dictionaryKey": "category-deleted",
+        "notes": "videos",
+        "idExecution": "6777eb0e575e2",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:50:02",
+        "dictionaryKey": "category-deleted",
+        "notes": "music",
+        "idExecution": "6777eb0a840db",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:46:54",
+        "dictionaryKey": "new-content-created",
+        "notes": "DICE research group",
+        "idExecution": "6777ea4e6ec11",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:32:40",
+        "dictionaryKey": "content-edited",
+        "notes": "Collegium for Cognitive Science",
+        "idExecution": "6777e6f8053a3",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:32:10",
+        "dictionaryKey": "content-edited",
+        "notes": "Collegium for Cognitive Science",
+        "idExecution": "6777e6da0b8f9",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:30:56",
+        "dictionaryKey": "new-content-created",
+        "notes": "Front",
+        "idExecution": "6777e690cfcda",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:28:56",
+        "dictionaryKey": "settings-changes",
+        "notes": "",
+        "idExecution": "6777e6181e0a1",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:28:44",
+        "dictionaryKey": "settings-changes",
+        "notes": "",
+        "idExecution": "6777e60c93d1b",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:28:12",
+        "dictionaryKey": "new-content-created",
+        "notes": "About",
+        "idExecution": "6777e5eca7c07",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-03 14:27:46",
+        "dictionaryKey": "content-edited",
+        "notes": "Research",
+        "idExecution": "6777e5d249704",
+        "method": "POST",
+        "username": "admin"
+    }
+]

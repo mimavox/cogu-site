@@ -1,83 +1,83 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 [
     {
-        "date": "2025-01-03 14:50:06",
-        "dictionaryKey": "category-deleted",
-        "notes": "videos",
-        "idExecution": "6777eb0e575e2",
-        "method": "POST",
-        "username": "admin"
-    },
-    {
-        "date": "2025-01-03 14:50:02",
-        "dictionaryKey": "category-deleted",
-        "notes": "music",
-        "idExecution": "6777eb0a840db",
-        "method": "POST",
-        "username": "admin"
-    },
-    {
-        "date": "2025-01-03 14:46:54",
+        "date": "2025-01-04 17:36:37",
         "dictionaryKey": "new-content-created",
+        "notes": "Test",
+        "idExecution": "67796395384d0",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-04 17:35:15",
+        "dictionaryKey": "content-edited",
         "notes": "DICE research group",
-        "idExecution": "6777ea4e6ec11",
+        "idExecution": "677963431eddb",
         "method": "POST",
         "username": "admin"
     },
     {
-        "date": "2025-01-03 14:32:40",
+        "date": "2025-01-04 17:34:40",
         "dictionaryKey": "content-edited",
-        "notes": "Collegium for Cognitive Science",
-        "idExecution": "6777e6f8053a3",
+        "notes": "DICE research group",
+        "idExecution": "6779632040861",
         "method": "POST",
         "username": "admin"
     },
     {
-        "date": "2025-01-03 14:32:10",
+        "date": "2025-01-04 17:34:01",
         "dictionaryKey": "content-edited",
-        "notes": "Collegium for Cognitive Science",
-        "idExecution": "6777e6da0b8f9",
+        "notes": "DICE research group",
+        "idExecution": "677962f940f3b",
         "method": "POST",
         "username": "admin"
     },
     {
-        "date": "2025-01-03 14:30:56",
-        "dictionaryKey": "new-content-created",
-        "notes": "Front",
-        "idExecution": "6777e690cfcda",
-        "method": "POST",
-        "username": "admin"
-    },
-    {
-        "date": "2025-01-03 14:28:56",
-        "dictionaryKey": "settings-changes",
-        "notes": "",
-        "idExecution": "6777e6181e0a1",
-        "method": "POST",
-        "username": "admin"
-    },
-    {
-        "date": "2025-01-03 14:28:44",
-        "dictionaryKey": "settings-changes",
-        "notes": "",
-        "idExecution": "6777e60c93d1b",
-        "method": "POST",
-        "username": "admin"
-    },
-    {
-        "date": "2025-01-03 14:28:12",
-        "dictionaryKey": "new-content-created",
-        "notes": "About",
-        "idExecution": "6777e5eca7c07",
-        "method": "POST",
-        "username": "admin"
-    },
-    {
-        "date": "2025-01-03 14:27:46",
+        "date": "2025-01-04 17:25:45",
         "dictionaryKey": "content-edited",
-        "notes": "Research",
-        "idExecution": "6777e5d249704",
+        "notes": "DICE research group",
+        "idExecution": "6779610914539",
         "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-04 17:25:27",
+        "dictionaryKey": "content-edited",
+        "notes": "DICE research group",
+        "idExecution": "677960f7c7657",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-04 17:25:04",
+        "dictionaryKey": "content-edited",
+        "notes": "DICE research group",
+        "idExecution": "677960e0d3b0f",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-04 17:24:20",
+        "dictionaryKey": "plugin-configured",
+        "notes": "Categories",
+        "idExecution": "677960b45ba10",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-04 17:23:42",
+        "dictionaryKey": "plugin-configured",
+        "notes": "Categories",
+        "idExecution": "6779608e2f2b6",
+        "method": "POST",
+        "username": "admin"
+    },
+    {
+        "date": "2025-01-04 17:23:39",
+        "dictionaryKey": "plugin-activated",
+        "notes": "Categories",
+        "idExecution": "6779608b0a56c",
+        "method": "GET",
         "username": "admin"
     }
 ]

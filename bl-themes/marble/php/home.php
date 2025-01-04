@@ -28,25 +28,31 @@
 
     <?php } ?>
 
-	<div class="row row-bottom-padded-md">
+
+  <div class="row row-bottom-padded-md">
     <!-- TODO: Instagram feed -->
   </div>
 
   <div class="row row-bottom-padded-md">
-	<?php foreach($content as $page):?>
-		<div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">
-			<div class="blog-entry">
-				<a href="<?php echo $page->permalink() ?>" class="blog-img"><img src="<?php echo $page->coverImage()?$page->coverImage():HTML_PATH_THEME_IMG.'noimg.png'; ?>" class="img-responsive" alt=""></a>
-				<div class="desc">
-					<h3><a href="<?php echo $page->permalink() ?>"><?php echo limitText($page->title(),32); ?></a></h3>
-					<span><small>by <?php echo $page->user('nickname'); ?> </small> / <small> <?php echo $page->category(); ?> </small> / <small> <i class="icon-comment"></i> <?php echo $page->date(); ?></small></span>
-					<p><?php echo limitText($page->contentBreak(),100); ?></p>
-					<a href="<?php echo $page->permalink() ?>" class="lead"><?php $language->p('Read More') ?><i class="icon-arrow-right2"></i></a>
-				</div>
-			</div>
-		</div>
-	<?php endforeach; ?>
+    <?php foreach($content as $page):
+        // Check if the 'sticky' tag is present in the page tags
+        if (in_array('sticky', explode(',', $page->type()))) : 
+    ?>
+        <div class="col-md-3 col-sm-6 col-padding animate-box" data-animate-effect="fadeInLeft">
+            <div class="blog-entry">
+                <a href="<?php echo $page->permalink() ?>" class="blog-img"><img src="<?php echo $page->coverImage()?$page->coverImage():HTML_PATH_THEME_IMG.'noimg.png'; ?>" class="img-responsive" alt=""></a>
+                <div class="desc">
+                    <h3><a href="<?php echo $page->permalink() ?>"><?php echo limitText($page->title(),32); ?></a></h3>
+                    <span><small>by <?php echo $page->user('nickname'); ?> </small> / <small> <?php echo $page->category(); ?> </small> / <small> <i class="icon-comment"></i> <?php echo $page->date(); ?></small></span>
+                    <p><?php echo limitText($page->contentBreak(),100); ?></p>
+                    <a href="<?php echo $page->permalink() ?>" class="lead"><?php $language->p('Read More') ?><i class="icon-arrow-right2"></i></a>
+                </div>
+            </div>
+        </div>
+    <?php endif; ?>
+    <?php endforeach; ?>
 	</div>
+
   <!-- Pagination -->
   <?php if (Paginator::numberOfPages()>1): ?>
   <nav class="paginator">

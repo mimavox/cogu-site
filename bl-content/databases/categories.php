@@ -1,9 +1,21 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 {
-    "general": {
-        "name": "General",
-        "description": "",
+    "people": {
+        "name": "People",
         "template": "",
-        "list": []
+        "description": "",
+        "list": [
+            "robert-lowe",
+            "pierre-gander"
+        ]
+    },
+    "research": {
+        "name": "Research",
+        "template": "",
+        "description": "",
+        "list": [
+            "dice-research-group",
+            "test"
+        ]
     }
 }

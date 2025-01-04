@@ -14,7 +14,6 @@
     </div>
         <?php if($url->slug()=="research"): ?>
             
-
             <?php $categoryKey = 'research';
             $category = getCategory($categoryKey);
             if ($category): ?>
@@ -38,7 +37,6 @@
                 </div>
             <?php endif; 
         endif; ?>
-
 
         <?php Theme::plugins('pageEnd'); ?>
 

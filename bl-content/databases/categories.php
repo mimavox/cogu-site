@@ -15,7 +15,8 @@
         "description": "",
         "list": [
             "dice-research-group",
-            "test"
+            "test-research-ej-sticky",
+            "test-research-sticky"
         ]
     }
 }

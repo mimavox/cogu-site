@@ -156,19 +156,41 @@
             false
         ]
     },
-    "test": {
-        "title": "Test",
+    "test-research-ej-sticky": {
+        "title": "Test research - ej sticky",
         "description": "",
         "username": "admin",
         "tags": [],
         "type": "published",
-        "date": "2025-01-04 17:36:23",
-        "dateModified": "",
+        "date": "2025-01-05 13:38:52",
+        "dateModified": "2025-01-05 13:41:53",
         "position": 14,
-        "coverImage": "",
+        "coverImage": "electric_love.jpg",
         "category": "research",
         "md5file": "d41d8cd98f00b204e9800998ecf8427e",
-        "uuid": "a9284ea898a7757bd0be9780c2178ff7",
+        "uuid": "9102de9290257ff44380ad514220a68a",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
+    "test-research-sticky": {
+        "title": "Test research -sticky",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "sticky",
+        "date": "2025-01-05 13:40:21",
+        "dateModified": "",
+        "position": 15,
+        "coverImage": "171717.jpg",
+        "category": "research",
+        "md5file": "d41d8cd98f00b204e9800998ecf8427e",
+        "uuid": "aa62f2abe399631b3c70904aa3db81c5",
         "allowComments": true,
         "template": "",
         "noindex": false,

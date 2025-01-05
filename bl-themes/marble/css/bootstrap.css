@@ -6,7 +6,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: "Open Sans";
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -310,13 +310,14 @@ th {
 }
 
 html {
-  font-size: 10px;
+  font-size: 14px;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-family: "Bitter", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
   line-height: 1.42857;
   color: #333333;
   background-color: #7A9DAD;
@@ -359,6 +360,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  padding-bottom: 50px;
 }
 
 .img-rounded {
@@ -416,7 +418,7 @@ hr {
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: inherit;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.1;
   color: inherit;
 }
@@ -508,9 +510,9 @@ p {
 
 .lead {
   margin-bottom: 20px;
+  font-family: "Open Sans";
   font-size: 16px;
-  font-weight: 300;
-  line-height: 1.4;
+  font-weight: 500;
 }
 
 @media (min-width: 768px) {
@@ -871,8 +873,7 @@ pre code {
 }
 
 .container {
-  margin-right: auto;
-  margin-left: auto;
+  
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -888,19 +889,19 @@ pre code {
 
 @media (min-width: 768px) {
   .container {
-    width: 750px;
+    width: 100%;
   }
 }
 
 @media (min-width: 992px) {
   .container {
-    width: 970px;
+    width: 100%;
   }
 }
 
 @media (min-width: 1200px) {
   .container {
-    width: 1170px;
+    width: 100%;
   }
 }
 
@@ -4640,7 +4641,7 @@ a.badge:hover, a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #eedfbf;
 }
 
 .jumbotron h1,
@@ -4648,10 +4649,11 @@ a.badge:hover, a.badge:focus {
   color: inherit;
 }
 
+
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .jumbotron > hr {
@@ -5832,7 +5834,7 @@ button.close {
   position: absolute;
   z-index: 1070;
   display: block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;
@@ -5966,7 +5968,7 @@ button.close {
   display: none;
   max-width: 276px;
   padding: 1px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   letter-spacing: normal;

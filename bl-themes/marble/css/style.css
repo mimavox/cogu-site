@@ -13,9 +13,9 @@
 *
 * ======================================================= */
 body {
-  font-family: "Roboto", Arial, sans-serif;
-  font-weight: 300;
-  font-size: 14px;
+  font-family: "Bitter", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
   line-height: 1.6;
   color: rgba(0, 0, 0, 0.5);
   background: #7A9DAD;
@@ -45,8 +45,8 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000;
-  font-family: "Roboto", Arial, sans-serif;
-  font-weight: 400;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 600;
   margin: 0 0 30px 0;
 }
 
@@ -62,7 +62,7 @@ figure figcaption {
   margin: 20px auto 0px auto;
   color: #b3b3b3;
   font-style: italic;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 @media screen and (max-width: 480px) {
@@ -122,10 +122,9 @@ figure figcaption {
 
 #fh5co-aside #fh5co-logo {
   text-align: center;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
   font-weight: 700;
   margin-bottom: 2em;
-  text-transform: uppercase;
   font-size: 38px;
 }
 
@@ -167,12 +166,12 @@ figure figcaption {
   text-decoration: none;
   letter-spacing: .1em;
   text-transform: uppercase;
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
   position: relative;
   padding: 10px 10px;
   letter-spacing: .2em;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
@@ -394,7 +393,7 @@ figure figcaption {
   margin: 0;
   padding: 0;
   color: white;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
@@ -402,7 +401,7 @@ figure figcaption {
   font-size: 45px;
   line-height: 1.3;
   font-weight: 100;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
 }
 
 @media screen and (max-width: 768px) {
@@ -445,7 +444,7 @@ figure figcaption {
 }
 
 #fh5co-hero .flexslider .slider-text > .slider-text-inner .btn {
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #fff;
@@ -549,7 +548,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .blog-entry .desc h3 {
-  font-size: 15px;
+  font-size: 18px;
   text-transform: uppercase;
   margin-bottom: 10px;
   letter-spacing: 1px;
@@ -564,7 +563,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .blog-entry .desc span {
   display: block;
   margin-bottom: 20px;
-  font-size: 11px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 1px;
   color: rgba(0, 0, 0, 0.4) !important;
@@ -575,10 +574,15 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .blog-entry .desc .lead {
-  font-size: 11px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: #000;
+}
+
+.lead p {
+  font-family: "Bitter";
+  font-weight: 400;
 }
 
 .blog-entry:hover .blog-img img {
@@ -633,7 +637,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .work .desc span {
   display: block;
   color: #999999;
-  font-size: 12px;
+  font-size: 14px;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
   transition: opacity 0.3s, -webkit-transform 0.3s;
@@ -734,7 +738,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 
 .fh5co-cards .fh5co-flex-wrap .fh5co-card h5 {
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: .2em;
   padding: 4px 8px;
   background: #ebebeb;
@@ -940,7 +944,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   text-transform: uppercase;
@@ -1120,6 +1124,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .fh5co-nav-toggle {
   cursor: pointer;
   text-decoration: none;
+  padding-bottom: 30px !important;
 }
 
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
@@ -1273,4 +1278,5 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .js .animate-box {
   opacity: 0;
 }
+
 /*# sourceMappingURL=style.css.map */

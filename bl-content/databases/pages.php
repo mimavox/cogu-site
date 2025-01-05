@@ -1,5 +1,27 @@
 <?php defined('BLUDIT') or die('Bludit CMS.'); ?>
 {
+    "autosave-9102de9290257ff44380ad514220a68a": {
+        "title": "Test research - ej sticky[Autosave]",
+        "description": "",
+        "username": "admin",
+        "tags": [],
+        "type": "autosave",
+        "date": "2025-01-05 17:51:59",
+        "dateModified": "",
+        "position": 0,
+        "coverImage": "",
+        "category": "",
+        "md5file": "89fe2d4b32dd07b14970018691379e10",
+        "uuid": "autosave-9102de9290257ff44380ad514220a68a",
+        "allowComments": true,
+        "template": "",
+        "noindex": false,
+        "nofollow": false,
+        "noarchive": false,
+        "custom": [
+            false
+        ]
+    },
     "research": {
         "title": "Research",
         "description": "",
@@ -163,11 +185,11 @@
         "tags": [],
         "type": "published",
         "date": "2025-01-05 13:38:52",
-        "dateModified": "2025-01-05 13:41:53",
+        "dateModified": "2025-01-05 17:49:58",
         "position": 14,
         "coverImage": "electric_love.jpg",
         "category": "research",
-        "md5file": "d41d8cd98f00b204e9800998ecf8427e",
+        "md5file": "4295c23d388c17208bf8e22f0e7248e9",
         "uuid": "9102de9290257ff44380ad514220a68a",
         "allowComments": true,
         "template": "",
